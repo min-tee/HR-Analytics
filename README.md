@@ -1,17 +1,15 @@
 # HR-Analytics
-Please follow this link [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for EDA and classifiers in Python for IBM HR dataset to predict employee attrition.
-
-
 The purpose of this project is to perform EDA and create classifiers to create models that will prediction employee attrition using IBM HR dataset. 
+Please follow this link [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for details.
 
-
-# Methodology
+## Methodology
 I took procedural programming approach to solve this problem(note - next project will be on object oriented approach).
 
 
-# 4D of Data Science 
+## Strategy : 4D of Data Science 
 **Define**
 - Why attrition is an issue?
+
 **Discover**
 - Import packages
 - obtain,clean and expore the data
