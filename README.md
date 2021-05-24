@@ -18,8 +18,8 @@ I took procedural programming approach to solve this problem(Note - Salary predi
 - Models : Logistic Regression, Random Forest, KNN, SVM
 - Feature Engineering : One-hot Encoding
 - Baseline Model
-- Improve Model Performance : Feature Selection, Treat imabalanced dataset(SMOTE, Upsampling & Downsampling), Hyperparameter Tuning
-- Metrics : F1-score, ROC graph
+- Improve Model Performance : Feature Selection, Feature Scaling, Treat imabalanced dataset(SMOTE, Upsampling & Downsampling), Hyperparameter Tuning
+- Metrics : F1-Score, ROC Graph
 - Random Forest Feature Importance
 
 **Deploy**
