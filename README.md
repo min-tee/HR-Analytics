@@ -11,14 +11,14 @@ I took procedural programming approach to solve this problem(Note - Salary predi
 
 **Discover**
 - Import packages
-- Obtain, clean and expore the data
-- EDA : Univariate and multivariate statsitical  approaches 
+- Obtain, clean and explore the data
+- EDA : Univariate and multivariate statistical  approaches 
 
 **Develop**
 - Models : Logistic Regression, Random Forest, KNN, SVM
 - Feature Engineering : One-hot Encoding
 - Baseline Model
-- Improve Model Performance : Feature Selection, Feature Scaling, Treat imabalanced dataset(SMOTE, Upsampling & Downsampling), Hyperparameter Tuning
+- Improve Model Performance : Feature Selection, Feature Scaling, Treat imbalanced dataset(SMOTE, Up sampling & Down sampling), Hyperparameter Tuning
 - Metrics : F1-Score, ROC Graph
 - Random Forest Feature Importance
 
