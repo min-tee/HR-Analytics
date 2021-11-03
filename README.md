@@ -3,7 +3,7 @@ The purpose of this project is to perform EDA and create classifiers that predic
 Please follow this link, [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for details.
 
 ## Methodology
-I took procedural programming approach to solve this problem(Note - Salary prediction project will be on object oriented approach).
+I took procedural programming approach to solve this problem.
 
 ## Strategy : 4D of Data Science 
 **Define**
