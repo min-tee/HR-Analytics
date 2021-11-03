@@ -3,7 +3,7 @@ The purpose of this project is to perform EDA and create classifiers that predic
 Please follow this link, [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for details.
 
 ## Methodology
-I took procedural programming approach to solve this problem.
+Procedural programming approac.
 
 ## Strategy : 4D of Data Science 
 **Define**
