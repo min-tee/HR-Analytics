@@ -14,7 +14,10 @@ Tools Used : Google Colab
 
 Packages : pandas, numpy, matplotlib, seaborn, sklearn
 
+Data :  35 features with 1470 observations.
+
 **EDA**
+
 
 ## Develop
 - Models : Logistic Regression, Random Forest, KNN, SVM
