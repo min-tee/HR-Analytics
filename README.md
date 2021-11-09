@@ -18,6 +18,17 @@ Data :  35 features with 1470 observations.
 
 **EDA**
 
+Feature Distributions
+
+[image](https://github.com/min-tee/HR-Analytics/blob/fd84a0d7477d265fc85f9c4b95c176e18503fd38/Charts/distributions.png)
+
+
+
+
+
+
+
+
 
 ## Develop
 - Models : Logistic Regression, Random Forest, KNN, SVM
