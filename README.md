@@ -24,7 +24,11 @@ Data :  35 features with 1470 observations.
 ![age](https://github.com/min-tee/HR-Analytics/blob/ccbacc3903ae6cae02e12953e55a69145927855b/Charts/attrition_age.png)
 ![monthlyincome_age](https://github.com/min-tee/HR-Analytics/blob/a29f0200c09441a08aa1d9ab12a257aca173cb7b/Charts/age_monthlyincome.png)
 
+**Attrition Counts**
+![attrition](https://github.com/min-tee/HR-Analytics/blob/4d3c27d93d511602c18c095ceeff96d870295214/Charts/imbalanced_data.png)
 
+**Correlation**
+![correlation](https://github.com/min-tee/HR-Analytics/blob/4d3c27d93d511602c18c095ceeff96d870295214/Charts/correlation%20matrix.png)
 
 
 
