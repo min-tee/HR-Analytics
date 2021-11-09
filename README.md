@@ -21,9 +21,10 @@ Data :  35 features with 1470 observations.
 **Feature Distributions**
 ![feature_dist](https://github.com/min-tee/HR-Analytics/blob/fd84a0d7477d265fc85f9c4b95c176e18503fd38/Charts/distributions.png)
 ![age](https://github.com/min-tee/HR-Analytics/blob/ccbacc3903ae6cae02e12953e55a69145927855b/Charts/attrition_age.png)
-
+Attrition is high among employees in late 20's and early 30's.
 
 **Attrition Counts**
+
 ![attrition](https://github.com/min-tee/HR-Analytics/blob/4d3c27d93d511602c18c095ceeff96d870295214/Charts/imbalanced_data.png)
 Data is highly imbalanced. 
 
