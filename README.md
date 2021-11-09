@@ -2,19 +2,21 @@
 The purpose of this project is to perform EDA and create classifiers that predict employee attrition using IBM HR dataset. 
 Please follow this link, [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for details.
 
-## Methodology
-Procedural programming approach.
+## Define
+Attrition is one of the most common issues at any organization. The amount of  time, money and effort to train new employees can lead to great loss for the company. The loss cost includes on-boarding, advertising, hiring, training and lost productivity. Additionally, attrition causes doubt or distrust among current employees with the management. 
+According to the [Gallup](https://www.gallup.com/workplace/247391/fixable-problem-costs-businesses-trillion.aspx), U.S business lose a trillion dollars every year due to employee turnover. It also argues that problem is fixable with right strategy and retention plan. 
 
-## Strategy : 4D of Data Science 
-**Define**
-- Why attrition is an issue?
+This project provides in-depth analysis of factors that lead to employee turnover, create model and provide retention strategy using [**Kaggle** IBM HR dataset.](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-**Discover**
-- Import packages
-- Obtain, clean and explore the data
-- EDA : Univariate and multivariate statistical  approaches 
 
-**Develop**
+## Discover
+Tools Used : Google Colab
+
+Packages : pandas, numpy, matplotlib, seaborn, sklearn
+
+**EDA**
+
+## Develop
 - Models : Logistic Regression, Random Forest, KNN, SVM
 - Feature Engineering : One-hot Encoding
 - Baseline Model
@@ -22,6 +24,6 @@ Procedural programming approach.
 - Metrics : F1-Score, ROC Graph
 - Random Forest Feature Importance
 
-**Deploy**
+## Deploy
 - Retention Strategy
 
