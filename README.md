@@ -18,13 +18,13 @@ Data :  35 features with 1470 observations.
 
 **EDA**
 
-Feature Distributions
+**Feature Distributions**
 
-![image](https://github.com/min-tee/HR-Analytics/blob/fd84a0d7477d265fc85f9c4b95c176e18503fd38/Charts/distributions.png)
-
-
+![feature_dist](https://github.com/min-tee/HR-Analytics/blob/fd84a0d7477d265fc85f9c4b95c176e18503fd38/Charts/distributions.png)
 
 
+
+![monthlyincome_age](https://github.com/min-tee/HR-Analytics/blob/a29f0200c09441a08aa1d9ab12a257aca173cb7b/Charts/age_monthlyincome.png)
 
 
 
