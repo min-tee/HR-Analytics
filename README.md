@@ -39,7 +39,17 @@ Instances of multicollinearity.
 
 
 ## Develop
-- Models : Logistic Regression, Random Forest, KNN, SVM
+Models : Logistic Regression, Random Forest, KNN, SVM
+
+Developed baseline models without model improvement techniques. 
+
+**Baseline AUC & F1-score**
+![scores](https://github.com/min-tee/HR-Analytics/blob/d12b193f2922f683f09792450bf59c3a34f9ff2e/Charts/baseline_scores.PNG)
+
+**Baseline ROC Graph**
+![roc](https://github.com/min-tee/HR-Analytics/blob/d12b193f2922f683f09792450bf59c3a34f9ff2e/Charts/baseline_roc.png)
+
+
 - Feature Engineering : One-hot Encoding
 - Baseline Model
 - Improve Model Performance : Feature Selection, Feature Scaling, Treat imbalanced dataset(SMOTE, Up sampling & Down sampling), Hyperparameter Tuning
