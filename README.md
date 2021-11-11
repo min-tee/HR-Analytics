@@ -26,6 +26,7 @@ Attrition is high among employees in late 20's and early 30's.
 **Attrition Counts**
 
 ![attrition](https://github.com/min-tee/HR-Analytics/blob/4d3c27d93d511602c18c095ceeff96d870295214/Charts/imbalanced_data.png)
+
 Data is highly imbalanced. 
 
 **Correlation**
@@ -41,7 +42,13 @@ Instances of multicollinearity.
 ## Develop
 Models : Logistic Regression, Random Forest, KNN, SVM
 
-Developed baseline models without model improvement techniques. 
+Feature Engineering : One-hot Encoding
+
+Model Performance Techniques: Feature Selection, Feature Scaling, Treat imbalanced dataset(SMOTE, Up sampling & Down sampling), Hyperparameter Tuning
+
+Metrics : F1-Score, ROC Graph
+
+First, developed baseline models without model improvement techniques. 
 
 **Baseline AUC & F1-score**
 
@@ -52,12 +59,20 @@ Developed baseline models without model improvement techniques.
 
 ![roc](https://github.com/min-tee/HR-Analytics/blob/d12b193f2922f683f09792450bf59c3a34f9ff2e/Charts/baseline_roc.png)
 
+**Improved AUC & F1-score**
 
-- Feature Engineering : One-hot Encoding
-- Baseline Model
-- Improve Model Performance : Feature Selection, Feature Scaling, Treat imbalanced dataset(SMOTE, Up sampling & Down sampling), Hyperparameter Tuning
-- Metrics : F1-Score, ROC Graph
-- Random Forest Feature Importance
+![improved](https://github.com/min-tee/HR-Analytics/blob/fc01a41a84e58960c9dfb5cf0ed7a45e45de219c/Charts/improved_metrics.png)
+
+
+**Improved ROC Graph**
+![improved_roc](https://github.com/min-tee/HR-Analytics/blob/fc01a41a84e58960c9dfb5cf0ed7a45e45de219c/Charts/improved_roc.png)
+
+**Random Forest Feature Importance**
+
+![rf_feat](https://github.com/min-tee/HR-Analytics/blob/fc01a41a84e58960c9dfb5cf0ed7a45e45de219c/Charts/rf_feat_impt.png)
+
+
+
 
 ## Deploy
 - Retention Strategy
