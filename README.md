@@ -65,6 +65,7 @@ First, developed baseline models without model improvement techniques.
 
 
 **Improved ROC Graph**
+
 ![improved_roc](https://github.com/min-tee/HR-Analytics/blob/fc01a41a84e58960c9dfb5cf0ed7a45e45de219c/Charts/improved_roc.png)
 
 **Random Forest Feature Importance**
@@ -75,5 +76,8 @@ First, developed baseline models without model improvement techniques.
 
 
 ## Deploy
-- Retention Strategy
+
+**Retention Strategy**
+
+Based on feature importance chart, we can say that that overtime, job level, stock option level, time with current manager, marital status and income also play a vital role in employee attrition. On the contrary, department, job role, education tend not to contribute for turnover. The company can focus on the factors contributing higher contributing attrition. However, there are other factors such as selection bias, type of employment(interns, contractors, part time or full time) that may need to be considered that are not necessarily captured by the model. Additionally, it is recommended that models are tuned at a certain frequency to include recent data and drop features of lower importance. Chi-Square test may be used to determine the dependence between attrition and other features.
 
