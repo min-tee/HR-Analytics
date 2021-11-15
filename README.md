@@ -4,7 +4,7 @@
 Attrition is one of the most common issues at any organization. The amount of  time, money and effort to train new employees can lead to great loss for the company. The loss cost includes on-boarding, advertising, hiring, training and lost productivity. Additionally, attrition causes doubt or distrust among current employees with the management. 
 According to the [Gallup](https://www.gallup.com/workplace/247391/fixable-problem-costs-businesses-trillion.aspx), U.S business lose a trillion dollars every year due to employee turnover. It also argues that problem is fixable with right strategy and retention plan. 
 
-This project provides in-depth analysis of factors that lead to employee turnover, create model and provide retention strategy using [**Kaggle** IBM HR dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). Please follow this link, [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for details.
+This project aims to provide in-depth analysis of factors that lead to employee turnover, create predictive model and suggest retention strategy using [**Kaggle** IBM HR dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset). Please follow this link, [Understanding and Predicting IBM Employee Attrition](https://github.com/min-tee/HR-Analytics/blob/main/HR_Analytics.ipynb) for details.
 
 
 ## Discover
